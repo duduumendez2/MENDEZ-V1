@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "⚡Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
+global.ownernomer = "255628871373"
+global.ownername = "⚡Dream MENDEZ"
+global.ytname = "YT: DUDUU_MENDEZ"
+global.socialm = "GitHub: duduumendez2"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '⚡Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '255628871373'  //creator number
+global.ownername = '⚡Dream MENDEZ' //owner name
+global.botname = 'MENDEZ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z'
+global.link = 'https://whatsapp.com/channel/0029VacgCaPKmCPGmTmrnT04'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
