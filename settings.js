@@ -69,7 +69,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/39daec0d03901ff8a1593.mp4')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
